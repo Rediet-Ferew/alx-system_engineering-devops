@@ -1,2 +1,2 @@
-#!/bin/bash 
-local BEST="School"
+#1/bin/bash
+BEST="School"
