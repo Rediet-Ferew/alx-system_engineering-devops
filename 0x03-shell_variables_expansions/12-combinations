@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z} "\n"
+printf "%s\n" {{a..z}}{{a..z}} | tr -d {{o}}{{o}}\"
