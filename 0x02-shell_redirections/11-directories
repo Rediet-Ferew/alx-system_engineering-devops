@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld .* | egrep '^d' | wc -l
+find . -type d -print la | wc -l
